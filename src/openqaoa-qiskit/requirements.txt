@@ -1,3 +1,4 @@
 qiskit>=0.36.1,<1.0
 qiskit-ibm-provider
 qiskit-aer
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
