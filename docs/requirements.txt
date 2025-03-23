@@ -1,6 +1,6 @@
 matplotlib>=2.2
 numpy==1.22.0
-qiskit==0.36
+qiskit==1.4.1
 pyquil>=3.1
 nbsphinx==0.8.9
 sphinx>=4.5.0
