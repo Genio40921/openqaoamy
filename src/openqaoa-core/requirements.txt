@@ -11,3 +11,4 @@ autoray>=0.3.1
 requests
 ipython>=8.2.0
 mitiq
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
